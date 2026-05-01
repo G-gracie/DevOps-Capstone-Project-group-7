@@ -47,7 +47,7 @@ Ensure the following tools are installed and running before proceeding:
 |---|---|
 | [Docker Desktop](https://www.docker.com/products/docker-desktop/) | Container runtime environment |
 | [Terraform](https://developer.hashicorp.com/terraform/install) | Infrastructure provisioning tool |
-| WSL / Ubuntu (optional) | Linux-based terminal environment |
+| WSL / Ubuntu | Linux-based terminal environment |
 
 ---
 
