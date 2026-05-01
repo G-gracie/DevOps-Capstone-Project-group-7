@@ -7,7 +7,7 @@ variable "image_name" {
 variable "container_name" {
   description = "Value of the name for the Docker container"
   type        = string
-  default     = "nginx-container"
+  default     = "DevOps-group7-capstone-project-container"
 }
 
 variable "external_port" {
